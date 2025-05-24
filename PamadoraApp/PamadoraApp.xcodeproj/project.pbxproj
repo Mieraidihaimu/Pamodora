@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		954721E02DE25B7B00B76A0B /* PamadoraApp.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = PamadoraApp.xcodeproj; sourceTree = "<group>"; };
 		95F44C372DC2C6AB00283472 /* PamadoraApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PamadoraApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -30,13 +29,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		954721E12DE25B7B00B76A0B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		95F44C2E2DC2C6AB00283472 = {
 			isa = PBXGroup;
 			children = (
@@ -105,12 +97,6 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 95F44C382DC2C6AB00283472 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 954721E12DE25B7B00B76A0B /* Products */;
-					ProjectRef = 954721E02DE25B7B00B76A0B /* PamadoraApp.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				95F44C362DC2C6AB00283472 /* PamadoraApp */,
